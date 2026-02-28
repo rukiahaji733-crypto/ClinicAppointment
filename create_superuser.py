@@ -22,7 +22,7 @@ def setup_django():
     sys.path.append(BASE_DIR)
     
     # Set Django settings module
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myClinicproject.settings')
     
     # Setup Django
     django.setup()
