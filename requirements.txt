@@ -1,0 +1,11 @@
+asgiref
+Django
+django-cors-headers
+djangorestframework
+psycopg2-binary
+sqlparse
+tzdata
+gunicorn
+dj-database-url
+psycopg2-binary
+whitenoise
